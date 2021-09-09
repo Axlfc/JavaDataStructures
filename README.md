@@ -3,7 +3,7 @@ This repository will help me as a programmer to better remember how data structu
 
 First I plan to learn how a Java project is started, then I'll be trying to implement basic Primitive types as examples.
 
-[Link to be my guide path](https://en.wikipedia.org/wiki/List_of_data_structures)
+[Links to be my guide path](https://github.com/Axlfc/useful-links)
 
 ## Data Types
 ### Primitives
