@@ -3,7 +3,7 @@ public class Main {
         System.out.println("1 + 2 + 3 = " + suma(1, 2, 3));
 
         int nPuertas;
-        #nPuertas = suma(2, 1, 1);
+        // nPuertas = suma(2, 1, 1);
 	nPuertas = 1;
         int incremPuer;
         incremPuer = 0;
